@@ -1,2 +1,1 @@
-# Readme file for content in this folder
-'Naming convention.drawio.png' is visualization of naming convention
+# Readme files are available for each folder and contain the description of the content of said fodlers
